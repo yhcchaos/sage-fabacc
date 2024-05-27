@@ -4,4 +4,6 @@ actors_bkp/*
 offline/models/*
 rl_module/models*
 prepare-cp.sh
-
+rl_module/client
+rl_module/mem-manager
+rl_module/sage
